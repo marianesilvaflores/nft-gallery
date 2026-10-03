@@ -1,13 +1,35 @@
-export const cards = [{
-  id: '3429', name: 'Equilibrium', category: 'Forma & equilíbrio', image: 'equilibrium.jpg',
-  alt: 'Cubo de vidro ciano luminoso suspenso sobre uma superfície azul escura',
-  description: 'Um instante de equilíbrio entre a luz e o impossível.', price: '0,041', time: '3 dias restantes', edition: '01 / 03',
-}, {
-  id: '0186', name: 'Órbita', category: 'Movimento & matéria', image: 'orbit.jpg',
-  alt: 'Escultura circular perolada em tons de lavanda flutuando sobre um pedestal',
-  description: 'Curvas que encontram seu próprio caminho no infinito.', price: '0,062', time: '5 dias restantes', edition: '02 / 03',
-}, {
-  id: '0801', name: 'Solar', category: 'Luz & energia', image: 'solar.jpg',
-  alt: 'Esfera de vidro âmbar com um pequeno sol dourado sobre um pedestal escuro',
-  description: 'Um pequeno universo de luz, guardado em um só instante.', price: '0,085', time: '2 dias restantes', edition: '03 / 03',
-}];
+export const cards = [
+  {
+    id: "3429",
+    name: "Equilibrium",
+    category: "Forma & equilíbrio",
+    image: "equilibrium.jpg",
+    alt: "Cubo de vidro ciano luminoso suspenso sobre uma superfície azul escura",
+    description: "Um instante de equilíbrio entre a luz e o impossível.",
+    price: "0,041",
+    time: "3 dias restantes",
+    edition: "01 / 03",
+  },
+  {
+    id: "0186",
+    name: "Órbita",
+    category: "Movimento & matéria",
+    image: "orbit.jpg",
+    alt: "Escultura circular perolada em tons de lavanda flutuando sobre um pedestal",
+    description: "Curvas que encontram seu próprio caminho no infinito.",
+    price: "0,062",
+    time: "5 dias restantes",
+    edition: "02 / 03",
+  },
+  {
+    id: "0801",
+    name: "Solar",
+    category: "Luz & energia",
+    image: "solar.jpg",
+    alt: "Esfera de vidro âmbar com um pequeno sol dourado sobre um pedestal escuro",
+    description: "Um pequeno universo de luz, guardado em um só instante.",
+    price: "0,085",
+    time: "2 dias restantes",
+    edition: "03 / 03",
+  },
+];
