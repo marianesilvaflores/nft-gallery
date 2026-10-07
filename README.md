@@ -6,6 +6,20 @@ Galeria responsiva de arte digital por **Mariane Silva Flores**, inspirada no de
 
 ![NFT Gallery em desktop](docs/desktop.png)
 
+## Atividade 3 — Projeto do semestre atual
+
+Este projeto foi desenvolvido como tarefa de uma disciplina deste semestre e está sendo utilizado na Atividade 3 de publicação e organização de repositórios no GitHub.
+
+| Requisito da atividade | Como foi atendido |
+| --- | --- |
+| Publicar uma atividade do semestre atual | Projeto NFT Gallery, com os componentes NftCard, CardList e Header |
+| Criar um README | Este documento apresenta funcionalidades, tecnologias, execução, imagens e autoria |
+| Configurar o gitignore | O arquivo `.gitignore` exclui `node_modules/`, `dist/`, arquivos `.env` e arquivos do sistema |
+
+O `.env.example`, caso seja criado com valores ilustrativos, pode ser versionado para documentar configurações. O projeto atual não exige variáveis de ambiente.
+
+**Link para entrega:** [github.com/marianesilvaflores/nft-gallery](https://github.com/marianesilvaflores/nft-gallery).
+
 ## Funcionalidades
 
 - `NftCard`: imagem, descrição, preço ilustrativo, prazo e autoria.
@@ -58,7 +72,7 @@ O build é gerado em `dist/`. A opção `base: '/nft-gallery/'` permite carregar
 | `feature/header`       | Logo, header, menu mobile e documentação                            |
 | `feature/github-pages` | Publicação automatizada e validação final                           |
 
-As fases são integradas na `main` com merges que preservam o histórico. Os commits são em inglês e separados por mudanças concretas.
+As fases são integradas na `main` com merges que preservam o histórico. Os commits da implementação do desafio NFT são em inglês e separados por mudanças concretas. A atualização documental para a Atividade 3 foi registrada em português na branch `docs/atividade-3`.
 
 ## Organização
 
